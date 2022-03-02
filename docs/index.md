@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/AWS-Accelerator-Group-3-2021"><img src="assets/images/combustifier_logo.png"></a>
+    <a href="https://github.com/AWS-Accelerator-Group-3-2021"><img src="assets/images/combustifier_logo.png" height=250></a>
 </p>
 
 # Combustifier
