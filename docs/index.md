@@ -22,7 +22,7 @@ As the end of the programme, we were tasked to make a project that would fix an 
 
 ## The App
 
-<img src="assets/images/combustifieriOS_home_ss.png" height=450 align="right"> 
+<img src="assets/images/combustifieriOS_home_ss.png" height=450 align="right">
 
 The multi-platform application consists of 4 major components - the [front-end on both iOS](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier) and [Android](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier-Android), [The Reports System](https://github.com/AWS-Accelerator-Group-3-2021/Reports), the [Backend Server](https://github.com/AWS-Accelerator-Group-3-2021/Backend-Server) in operation with [AWS Rekognition](https://aws.amazon.com/rekognition).
 
@@ -38,6 +38,8 @@ For the Measurement tab, I had to come up with my own AR-Based measuring tool (s
 
 ### Combustifier Android
 
+<img src="assets/images/combustifierAndroid_home.png" height=400 align="right">
+
 The android side of the app was developed entirely by [@yisiansim](https://toasterclock.github.io) (who was quite passionate about it!). He had to learn Kotlin from the ground-up with just Python being his first programming experience (what a jump, Python to Kotlin) and after much effort he was able to produce an Android version of Combustifier with Kotlin and the new JetPack Compose method of declarative UI. He also managed to integrate the new Material3 design into the application which made the app look quite amazing and, well of course, android*y*. 
 
 The functional parts of the app are bascially a facsimilie of my application that I described above in concept. Props to him for pulling of such a marvelous feat!
@@ -45,6 +47,8 @@ The functional parts of the app are bascially a facsimilie of my application tha
 [This is the repository link.](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier-Android)
 
 ### The Reports System
+
+
 
 This is a project that I worked on which was basically a web server designed to securely perform CRUD operations of reports submitted by users. This reports system is easily the most comprehensive, secure, complex, yet most easy-to-use web server I have ever designed. It consists of 3+ security layers, a comprehensive set of data transfer and notification systems and a dynamically supportive data model inception system.
 
