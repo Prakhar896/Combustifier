@@ -83,5 +83,5 @@ Ever since we initiated the project in our groups in December 2021, we have lear
 
 > Me receiving the graduation certificate from the Minister alongside my group.
 
-<img src="assets/images/cert_presentation.png" height=600>
+<img src="assets/images/cert_presentation.png">
 
