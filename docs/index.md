@@ -10,6 +10,18 @@ I was the Team Manager as well as the iOS Developer of The Combustifier Team (th
 
 P.S: we were thinking of project names and I was like "Hey, combustible + identifier = Combustifier" and everyone just went along with it. Credits to [@vedkalanke](https://github.com/rreserVED) for the tagline!
 
+# Table Of Contents
+
+- [The Back Story](#the-back-story)
+- [The App](#the-app)
+    - [Combustifier iOS](#combustifier-ios)
+    - [Combustifier Android](#combustifier-android)
+    - [The Reports System](#the-reports-system)
+    - [Backend Server](#backend-server)
+- [The Journey](#the-journey)
+- [Links](#links)
+
+
 ## The Back Story
 
 <a href="https://www.sgcodecampus.com/datascience-bootcamp-accelerator/"><img src="assets/images/website_screenshot.png" height=300></a>
@@ -85,3 +97,19 @@ Ever since we initiated the project in our groups in December 2021, we have lear
 
 <img src="assets/images/cert_presentation.png">
 
+# Links
+
+Below are project-related links you might want to check out:
+
+- [GitHub Organisation that withholds all project code](https://github.com/AWS-Accelerator-Group-3-2021)
+- [Combustifier App Video Demonstration](https://youtu.be/LiIW4G2QOgw)
+- [Combustifier Full AWS Presentation](https://youtu.be/ZO4ChZb8D4g)
+- [Combustifier Poster](assets/poster/Combustifier Landscape Poster Final.pdf)
+- [Yisian Sim's Website](https://toasterclock.github.io)
+- [Ved Kalanke's GitHub](https://github.com/rreserVED)
+- [Benjamin Raharjo's GitHub](https://github.com/benjaminthree)
+- [Instructor Jireh Chew's GitHub](https://github.com/jirehcwe)
+- [Teaching Assistant (TA) Daniel Choo's GitHub](https://github.com/https://github.com/dvdg6566)
+- [SG Code Campus Website](https://sgcodecampus.com)
+- [Tampines Town Council Website](https://tampines.org.sg)
+- [Amazon Web Services Website](https://aws.amazon.com)
