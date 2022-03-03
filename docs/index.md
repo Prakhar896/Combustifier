@@ -79,5 +79,9 @@ This data is then returned back to the mobile application which parses and proce
 
 > Left To Right: Prakhar Trivedi (Me), [@Ved Kalanke](https://github.com/rreserVED), [@Yisian Sim](https://toasterclock.github.io), [@Benjamin Raharjo](https://github.com/benjaminthree), [@Daniel Choo](https://github.com/dvdg6566) (one of our Teaching Assistants in the Programme)
 
-Ever since we initiated the project in our groups in December 2021, we have learnt a lot together about the development world together. We have had several highs and lows thorughout the project but in the end we are really quite proud of how far along we came in the journey and how much we have accomplished with this project. After overcoming several obstacles and challenges, the taste of the fruits of our efforts had never tasted better when we also got the opportunity to present Combustifier in front of 
+Ever since we initiated the project in our groups in December 2021, we have learnt a lot together about the development world together. We have had several highs and lows thorughout the project but in the end we are really quite proud of how far along we came in the journey and how much we have accomplished with this project. After overcoming several obstacles and challenges, the taste of the fruits of our efforts had never tasted better when we also got the opportunity to present Combustifier in front of [Minister Masagos Zukifli](https://en.wikipedia.org/wiki/Masagos_Zulkifli) as well as [Tampines Town Council officials](https://www.tampines.org.sg/AboutUs/KeyOfficers). We are also proud to have received the Best Presentation award from SG Code Campus. This project will certainly be etched in my memory as one of the most profound and technically enriching ones.
+
+> Me receiving the graduation certificate from the Minister alongside my group.
+
+<img src="assets/images/cert_presentation.png" height=600>
 
