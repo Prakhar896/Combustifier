@@ -12,7 +12,7 @@ P.S: we were thinking of project names and I was like "Hey, combustible + identi
 
 ## The Back Story
 
-<img src="assets/images/website_screenshot.png" height=300>
+<a href="https://www.sgcodecampus.com/datascience-bootcamp-accelerator/"><img src="assets/images/website_screenshot.png" height=300></a>
 
 In early July 2021, I, alongside two friends from my school ([@yisiansim](https://toasterclock.github.io) and [@vedkalanke](https://github.com/rreserVED)), were selected into the [AWS Data Science Accelerator of 2021](https://www.sgcodecampus.com/datascience-bootcamp-accelerator/) which is an intensive course meant to accelerate secondary students' skills in Python Programming and Data Science with Python.
 
@@ -22,7 +22,7 @@ As the end of the programme, we were tasked to make a project that would fix an 
 
 ## The App
 
-The multi-platform application consists of 4 major components - the [front-end on both iOS](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier) and [Android](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier-Android), [The Reports System](https://github.com/AWS-Accelerator-Group-3-2021/Reports), the [Backend Server](https://github.com/AWS-Accelerator-Group-3-2021/Backend-Server) in operation with [AWS Rekognition](https://aws.amazon.com/rekognition).
+<img src="assets/images/combustifieriOS_home_ss.png" height=450> The multi-platform application consists of 4 major components - the [front-end on both iOS](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier) and [Android](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier-Android), [The Reports System](https://github.com/AWS-Accelerator-Group-3-2021/Reports), the [Backend Server](https://github.com/AWS-Accelerator-Group-3-2021/Backend-Server) in operation with [AWS Rekognition](https://aws.amazon.com/rekognition).
 
 ### Combustifier iOS
 
@@ -66,6 +66,8 @@ This data is then returned back to the mobile application which parses and proce
 ## The Journey
 
 <img src="assets/images/group_photo.jpg" height=300>
+
+> Left To Right: Prakhar Trivedi (Me), [@Ved Kalanke](https://github.com/rreserVED), [@Yisian Sim](https://toasterclock.github.io), [@Benjamin Raharjo](https://github.com/benjaminthree), [@Daniel Choo](https://github.com/dvdg6566) (one of our Teaching Assistants in the Programme)
 
 Ever since we initiated the project in our groups in December 2021, we have learnt a lot together about the development world together. We have had several highs and lows thorughout the project but in the end we are really quite proud of how far along we came in the journey and how much we have accomplished with this project.
 
