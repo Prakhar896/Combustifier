@@ -42,18 +42,20 @@ For the Measurement tab, I had to come up with my own AR-Based measuring tool (s
 
 The android side of the app was developed entirely by [@yisiansim](https://toasterclock.github.io) (who was quite passionate about it!). He had to learn Kotlin from the ground-up with just Python being his first programming experience (what a jump, Python to Kotlin) and after much effort he was able to produce an Android version of Combustifier with Kotlin and the new JetPack Compose method of declarative UI. He also managed to integrate the new Material3 design into the application which made the app look quite amazing and, well of course, android*y*. 
 
-The functional parts of the app are bascially a facsimilie of my application that I described above in concept. Props to him for pulling of such a marvelous feat!
+The functional parts of the app are bascially a facsimilie of my application that I described above in concept. Props to him for pulling off such a marvelous feat!
 
 [This is the repository link.](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier-Android)
 
 ### The Reports System
 
+<img src="assets/images/reports_login.png" height=250>
 
-
+<img src="assets/images/reports_home.png" align="right" height=200>
 This is a project that I worked on which was basically a web server designed to securely perform CRUD operations of reports submitted by users. This reports system is easily the most comprehensive, secure, complex, yet most easy-to-use web server I have ever designed. It consists of 3+ security layers, a comprehensive set of data transfer and notification systems and a dynamically supportive data model inception system.
 
 The system contains two types of authentication, User and Client, which both have their unique ways of proving to the system that the incoming or outgoing source is verified and can be trusted. As for the front-end, supposedly when [the Tampines Town Council](https://tampines.org.sg) first opens up the web app, they will be prompted for their access password. Upon authorisation, a unique 24-hour-active-only authentication token will also be generated to create a secure auth session for the user to access sensitive reports data.
 
+<img src="assets/images/reports_detailpage.png" align="right" height=200>
 The report listing page is also easy to navigate with key report information being shown in every row and with each of them organised in the order of most-recently submitted to the report that was submitted the longest time ago. A convenient "Delete" button also helps the user to easily delete incorrectly submitted reports. Each report follows a specific data model that withholds key information that the council might require to contact the reporter and take action.
 
 The above is a gross simplification of the workflow; if you wish to read a more comprehensive breakdown of the reports system API, click [here](https://github.com/AWS-Accelerator-Group-3-2021/Reports/blob/main/wiki.md).
