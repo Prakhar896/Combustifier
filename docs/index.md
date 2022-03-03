@@ -64,6 +64,8 @@ The above is a gross simplification of the workflow; if you wish to read a more 
 
 ### Backend Server
 
+<img src="assets/images/updated_diagram.svg" height=450>
+
 This is another web server that acts as a middleman between AWS Rekognition and the front-end mobile applications. It was developed by both [@yisiansim](https://toasterclock.github.io) and [@benjaminraharjo](https://github.com/benjaminthree) under guidance from [@jirehchew](https://github.com/jirehcwe), an instructor from [SG Code Campus](https://sgcodecampus.com) (who guided us all in our project in general really.). 
 
 The Backend Server receives a [Base64](https://en.wikipedia.org/wiki/Base64) encrypted image from the mobile application. This image is first uploaded to an [AWS S3](https://aws.amazon.com/s3) bucket from where [AWS Rekognition](https://aws.amazon.com/rekognition) is signalled to query the image and process and detect the combustible items in the image based on a manually-generated list. The response is processed by the Backend Server and the combustibility of the image is detected and a certain percentage of confidence is also calculated.
@@ -77,5 +79,5 @@ This data is then returned back to the mobile application which parses and proce
 
 > Left To Right: Prakhar Trivedi (Me), [@Ved Kalanke](https://github.com/rreserVED), [@Yisian Sim](https://toasterclock.github.io), [@Benjamin Raharjo](https://github.com/benjaminthree), [@Daniel Choo](https://github.com/dvdg6566) (one of our Teaching Assistants in the Programme)
 
-Ever since we initiated the project in our groups in December 2021, we have learnt a lot together about the development world together. We have had several highs and lows thorughout the project but in the end we are really quite proud of how far along we came in the journey and how much we have accomplished with this project.
+Ever since we initiated the project in our groups in December 2021, we have learnt a lot together about the development world together. We have had several highs and lows thorughout the project but in the end we are really quite proud of how far along we came in the journey and how much we have accomplished with this project. After overcoming several obstacles and challenges, the taste of the fruits of our efforts had never tasted better when we also got the opportunity to present Combustifier in front of 
 
