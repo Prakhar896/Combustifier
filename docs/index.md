@@ -104,7 +104,7 @@ Below are project-related links you might want to check out:
 - [GitHub Organisation that withholds all project code](https://github.com/AWS-Accelerator-Group-3-2021)
 - [Combustifier App Video Demonstration](https://youtu.be/LiIW4G2QOgw)
 - [Combustifier Full AWS Presentation](https://youtu.be/ZO4ChZb8D4g)
-- [Combustifier Poster](https://prakhar896.github.io/Combustifier/assets/poster/Combustifier Landscape Poster Final.pdf)
+- [Combustifier Poster](assets/poster/Combustifier Landscape Poster Final.pdf)
 - [Yisian Sim's Website](https://toasterclock.github.io)
 - [Ved Kalanke's GitHub](https://github.com/rreserVED)
 - [Benjamin Raharjo's GitHub](https://github.com/benjaminthree)
