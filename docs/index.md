@@ -12,6 +12,8 @@ P.S: we were thinking of project names and I was like "Hey, combustible + identi
 
 ## The Back Story
 
+<img src="assets/images/website_screenshot.png" height=300>
+
 In early July 2021, I, alongside two friends from my school ([@yisiansim](https://toasterclock.github.io) and [@vedkalanke](https://github.com/rreserVED)), were selected into the [AWS Data Science Accelerator of 2021](https://www.sgcodecampus.com/datascience-bootcamp-accelerator/) which is an intensive course meant to accelerate secondary students' skills in Python Programming and Data Science with Python.
 
 It is a programme that was sponsored by [IMDA](https://imda.gov.sg), [AWS](https://aws.amazon.com) and Dunman Secondary School and organised by [SG Code Campus](https://sgcodecampus.com), which is a company dedicated to teaching coding to newer generations of students and providing opportunities for development.
@@ -62,6 +64,8 @@ This data is then returned back to the mobile application which parses and proce
 
 
 ## The Journey
+
+<img src="assets/images/group_photo.jpg" height=300>
 
 Ever since we initiated the project in our groups in December 2021, we have learnt a lot together about the development world together. We have had several highs and lows thorughout the project but in the end we are really quite proud of how far along we came in the journey and how much we have accomplished with this project.
 
