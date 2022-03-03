@@ -22,7 +22,7 @@ As the end of the programme, we were tasked to make a project that would fix an 
 
 ## The App
 
-<img src="assets/images/combustifieriOS_home_ss.png" height=450 align="right"> 
+<img src="assets/images/combustifieriOS_home_ss.png" height=550 align="right"> 
 
 The multi-platform application consists of 4 major components - the [front-end on both iOS](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier) and [Android](https://github.com/AWS-Accelerator-Group-3-2021/Combustifier-Android), [The Reports System](https://github.com/AWS-Accelerator-Group-3-2021/Reports), the [Backend Server](https://github.com/AWS-Accelerator-Group-3-2021/Backend-Server) in operation with [AWS Rekognition](https://aws.amazon.com/rekognition).
 
