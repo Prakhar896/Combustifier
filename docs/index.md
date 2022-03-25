@@ -113,3 +113,5 @@ Below are project-related links you might want to check out:
 - [SG Code Campus Website](https://sgcodecampus.com)
 - [Tampines Town Council Website](https://tampines.org.sg)
 - [Amazon Web Services Website](https://aws.amazon.com)
+
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
